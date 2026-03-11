@@ -1,2 +1,2 @@
 # sd-ev-analysis
-Choropleth maps of SD county 
+EV growth of SD county from 2018-2024
