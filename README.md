@@ -6,7 +6,7 @@ Interactive data visualization project analyzing electric vehicle adoption trend
 This analysis examines vehicle registration data across 113 ZIP codes in San Diego County, tracking the growth of Battery Electric, Hybrid Gasoline, Gasoline, and Hydrogen Fuel Cell vehicles from 2018 to 2024.
 
 ## Interactive Maps
-- [EV Share Growth (2018→2024)](https://anc049.github.io/sd-ev-analysis/ev-share-growth-map.html)
+- [EV Share Growth (2018→2024)](https://anc049.github.io/sd-ev-analysis/ev-growth-map.html)
 - [EV Share Distribution (2024)](https://anc049.github.io/sd-ev-analysis/ev-share-2024-map.html)
 - [Battery Electric Distribution](https://anc049.github.io/sd-ev-analysis/battery-electric-2024-map.html)
 - [Gasoline Distribution](https://anc049.github.io/sd-ev-analysis/gasoline-2024-map.html)
